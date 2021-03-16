@@ -6,6 +6,5 @@
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611407669103/2e6T4N7nw.jpeg?w=1600&h=840" width="auto">
 
-• This is a random data generation with attempt to predict the result. 
 • If you want, you can access the details on the blog page!
 [Blog](https://alicanakca.com/price-prediction-of-diamonds)
